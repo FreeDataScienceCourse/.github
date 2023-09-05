@@ -6,7 +6,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<h1> Free Data Scien Cecourse </h1>
+
+
+
+<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="60px", width="1200px" /></p>
+
+<h1> Free Data Scien Cecourse <img src="https://komarev.com/ghpvc/?username=freedatasciencecourse&label=Profile%20views&color=0e75b6&style=flat" alt="@FreeDataScienceCourse" />  </h1>
+</h1>
 <h2>About us: </h2> 
 At @freedatasciencecourse, we are dedicated to democratizing education in the field of data science. Our organization was founded on the belief that knowledge should be freely accessible to all. We offer a diverse range of courses and resources to empower individuals in their data science journey.
 
@@ -28,3 +34,18 @@ At @freedatasciencecourse, we are dedicated to democratizing education in the fi
 - **Free Access**: Enjoy unrestricted access to all our courses and resources without any cost.
 
 Join @freedatasciencecourse today and embark on a journey of limitless learning in the realm of data science. Explore, discover, and enhance your skills with our comprehensive offerings.
+
+<h2 align="left">Connect with me:</h2>
+<p style="text-align: left; font-family: verdana; text-color: red; ">
+
+- <a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15"  />   @AH.DataScinetist </a>
+
+- <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15"  />   Anwar.DataScientist </a> <br>
+
+- <a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="15" width="15"  />   @Anwar_Stat </a> <be>
+
+- <a href="https://instagram.com/anwar.stat.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="15" width="15"  />   @Anwar.Stat.JnU </a> <br>
+
+- <a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15"  />   In/AnwarStat </a> <br>
+- <a href="https://www.kaggle.com/anwarstat" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="af.yec.ng" height="15" width="15"  />   AnwarStat </a> <br>
+</p>
