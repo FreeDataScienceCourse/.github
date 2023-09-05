@@ -20,10 +20,11 @@ At @freedatasciencecourse, we are dedicated to democratizing education in the fi
 - **Statistics Fundamentals**: Build a strong statistical foundation for data-driven decision-making.
 
 <h2>Key Features: </h2>
+
 - **Language Tutorials**: We provide tutorials on popular programming languages, including Python, R, Stata, and more.
 - **Power BI Training**: Harness the power of data visualization with our Power BI tutorials.
 - **Accessible Learning**: Our courses are designed to cater to learners of all levels, from beginners to experts.
 - **Community Collaboration**: Join our vibrant community of learners, share insights, and collaborate on data projects.
 - **Free Access**: Enjoy unrestricted access to all our courses and resources without any cost.
 
-Join "freedatasciencecourse" today and embark on a journey of limitless learning in the realm of data science. Explore, discover, and enhance your skills with our comprehensive offerings.
+Join @freedatasciencecourse today and embark on a journey of limitless learning in the realm of data science. Explore, discover, and enhance your skills with our comprehensive offerings.
