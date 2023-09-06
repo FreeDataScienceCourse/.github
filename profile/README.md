@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="60px", width="1200px" /></p>
+<p align="left"> <img src='https://github.com/FreeDataScienceCourse/.github/assets/58507309/de977ede-d2c4-44cd-acb9-93f9afaf0adb' alt='Banner' height='150', width='1200' /></p>
 
 <h1> Free Data Science Course <img src="https://komarev.com/ghpvc/?username=freedatasciencecourse&label=Profile%20views&color=0e75b6&style=flat" alt="@FreeDataScienceCourse" />  </h1>
 </h1>
